@@ -9,9 +9,9 @@
             char lastInitial = 'T';
             bool isHappy = true;
             double weight = 4.3;
-            decimal lenght = 3.253;
+            decimal lenght = 3.53m;
 
-            Console.WriteLine("Hello, my cats name is {catName}");
+            Console.WriteLine("Hello, my cats name is {catName} {lastInitial}. She");
         }
     }
 }
