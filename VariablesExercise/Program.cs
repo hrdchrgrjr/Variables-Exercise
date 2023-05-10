@@ -11,7 +11,10 @@
             double weight = 4.3;
             decimal lenght = 3.53m;
 
-            Console.WriteLine("Hello, my cats name is {catName} {lastInitial}. She");
+            Console.WriteLine($"The cats name is {catName} {lastInitial}.\n" +
+                $"she is {catAge} year old and weighs {weight} with a lenght of {lenght}\n" +
+                $"and its {isHappy} she is happy");
         }
     }
 }
+ 
